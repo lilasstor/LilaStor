@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bg-dark {
+    background-color: #366A31 !important;
+}
+footer{
+	background-color: #BD496D;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
